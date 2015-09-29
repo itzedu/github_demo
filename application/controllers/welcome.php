@@ -11,6 +11,8 @@ class Welcome extends CI_Controller {
 	{
 		// Login stuff
 		$this->load->view('welcome_message');
+
+    // hello world
 	}
 }
 
